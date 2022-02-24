@@ -1,0 +1,108 @@
+h1{
+	margin:0px 0px 0px 350px;
+	font-style: bold;
+	font-size: 50pt;
+	color: rgb(0, 140, 255);
+}
+#title{
+	display: inline;
+}
+.logo{
+	float: left;
+	object-fit: cover;
+    width: 55px;
+    padding: 10px;
+}
+.float_form{
+	float: left;
+	margin:0px 0px 0px 430px;
+}
+.perform{
+	float: center;
+	margin:0px 0px 0px 200px;
+}
+body{
+	background: rgb(235, 234, 194);
+	color: #030337;
+	font-family: sans-serif;
+	margin: 0px;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+    background-color: #d38ad6;
+}
+li{
+	display: inline;
+	float: left;
+	margin:0px 0px 0px 200px;
+
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 36px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #E7E7F6;
+    color: #030337;
+}
+
+a {
+	color: #030337;
+	text-decoration: none;
+	padding-left: 20px;
+}
+a:hover{
+	background-color: white;
+	color: #030337;
+}
+h2{
+	padding-left: 10px;
+	font-size: 25pt;
+	font-style: bold;
+}
+.heading{
+	font-size:30pt;
+	text-align: center;
+}
+.table1{
+	width: 300px;
+}
+.table1_short{
+	width: 225px;
+}
+.welcome_text{
+	font-size: 30pt;
+	color: rgb(32, 22, 6);
+	position: absolute;
+	margin:200px 100px 100px 380px;
+}
+
+.center_submit{
+	text-align: center;
+}
+h3{
+	padding-left: 30px;
+	font-size: 15pt;
+}
+.login_form{
+	float: left;
+}
+#bf{
+	margin:00px 0px 0px 100px;
+	float: center;
+}
+#btn{
+	width:200px;
+	text-align:justify;
+}
+h2{
+	margin-left: 200px;
+}
